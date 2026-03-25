@@ -44,5 +44,3 @@ movie-lens-recsys/
 - Temporal train/validation splitting (timestamp has been completely avoided as of now).
 - Hybrid models combining collaborative and content features.
 
-## Author Notes
-
