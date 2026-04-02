@@ -13,7 +13,10 @@ The project includes two notebook workflows:
 Both datasets are from GroupLens MovieLens and include their own license and citation details in:
 - `data-small/README.txt`
 - `data-large/README.txt`
+  
 The actual csv files are not included in the repo.
+
+You can read the explanation about the project here: https://medium.com/@prathik.codes/neural-movie-recommenders-with-small-large-movielens-data-8e35afd5cf52
 
 ## Project Structure
 
